@@ -203,7 +203,7 @@ class App
     @system.add
       name: "Sun"
       radius: 30
-      color: "#f4bc42"
+      color: "green"
       mass: 1.989e30 # kg
       massDev: 1
       position: {x: 0, y: 0}  # m
