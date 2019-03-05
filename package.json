@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "coffeescript": "~1.11.1",
+    "gulp-coffee": "~2.2.0",
+    "gulp": "^3.8.8",
+    "laravel-elixir": "*",
+    "laravel-elixir-browsersync-official": "^1.0.0",
+    "laravel-elixir-coffeescript": "*"
+  }
+}

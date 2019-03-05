@@ -1,0 +1,15 @@
+.column1 {
+  display: inline-block;
+  width: 610px;
+}
+
+.column2 {
+  display: inline-block;
+  width: 200px;
+  vertical-align: top;
+}
+
+#gravity-canvas {
+  background: white;
+  border: 1px solid #aaa;
+}
