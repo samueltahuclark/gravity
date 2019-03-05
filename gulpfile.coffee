@@ -1,5 +1,6 @@
 elixir = require 'laravel-elixir'
 
+# Need resources/assets/coffee/gravity.coffee
 gravity = (mix) ->
   mix
     .coffee [
